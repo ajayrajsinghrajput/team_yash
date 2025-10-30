@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CO="text/html; charset=UTF-8">
+  <title>Log in</title>
+   </head><pre><h1>Login your bank account</h1> </pre>
+
+     
+<body> 
+  
+  <form action ="/action.php">
+        <h2>       Enter your name</h2>
+      <input type="text" placeholder="Username">
+    <h2>Enter your email id</h2>
+     <input type="text" placeholder="email id">
+    
+       <h2>    Enter your password</h2>
+      <input type="text" placeholder= "Password">
+    
+    <br>
+    <br>
+               <input type="submit"value="Login"
+  </form>
+  
+  
+    
+  
+</pre></body>
+</html>
